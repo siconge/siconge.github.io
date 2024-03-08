@@ -10,7 +10,7 @@ name: Sicong E
 title: Project Architect
 email: esicong@gmail.com
 # email_title: Email (Email title override)
-phone: +1(***)***-****
+phone: +1(000)000-0000
 # phone_title: Phone (Phone title override)
 website: siconge.github.io
 # website_title: Web (Website title override)
@@ -67,16 +67,16 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Building a Linear Regression Model for Housing Price Prediction
+        title: <h3>Building a Linear Regression Model for Housing Price Prediction</h3>
         # link: siconge.github.io/PCDE-Activity-9.1/
         # link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
@@ -87,7 +87,7 @@ content:
       - layout: top-left
         title: NBBJ
         sub_title: Project Architect
-        caption: September 2021 - December 2023
+        caption: Sep 2021 - Dec 2023
         link: www.nbbj.com
         quote: >
           Short description of the company (optional)
@@ -98,8 +98,10 @@ content:
     content:
       - layout: top-left
         title: MIT xPRO
-        sub_title: Professional Certificate in Data Engineering
-        caption: August 2023 - March 2024
+        sub_title: Professional Certificate in\n
+        Data Engineering
+        caption: Aug 2023 - Mar 2024
+        link: xpro.mit.edu
         # quote: >
           # Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
@@ -107,7 +109,8 @@ content:
       - layout: top-left
         title: University of Southern California
         sub_title: Master of Architecture
-        caption: 2009 - 2011
+        caption: Sep 2009 - May 2011
+        link: www.usc.edu
         # quote: >
           # Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
