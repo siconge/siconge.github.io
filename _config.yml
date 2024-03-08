@@ -71,7 +71,7 @@ content:
       - layout: top-left
         # border: weak  # Value of `weak` will display a weak border below this item.
                       # Any other value (or no value) means no border will be displayed
-        subtitle: Build a Linear Regression Model for Housing Price Prediction
+        sub_title: Build a Linear Regression Model for Housing Price Prediction
         # link:
         # link_text: Link Text
         additional_links:
@@ -85,11 +85,9 @@ content:
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-        quote: >
-          Skills involved: Python,
       
       - layout: top-left
-        title: ETL Processing and Time Series Analysis of MRTS Dataset
+        sub_title: ETL Processing and Time Series Analysis of MRTS Dataset
         additional_links:
           - title: ETL Processing and Time Series Analysis of MRTS Dataset
             icon: fab fa-github
@@ -98,7 +96,7 @@ content:
           Description about the work on/with the project
       
       - layout: top-left
-        title: Creating a Student Grades Database Using Redundant Dictionaries
+        sub_title: Creating a Student Grades Database Using Redundant Dictionaries
         additional_links:
           - title: Creating a Student Grades Database Using Redundant Dictionaries
             icon: fab fa-github
@@ -107,7 +105,7 @@ content:
           Description about the work on/with the project
 
       - layout: top-left
-        title: Creating a Books Web Application
+        sub_title: Creating a Books Web Application
         additional_links:
           - title: Creating a Books Web Application
             icon: fab fa-github
@@ -116,15 +114,16 @@ content:
           Description about the work on/with the project
       
       - layout: top-left
-        title: "Real-time Transit Data Integration: Implementing CDC from MBTA API to MySQL Database"
+        sub_title: "Real-time Transit Data Integration: Implementing CDC from MBTA API to MySQL Database"
         additional_links:
           - title: "Real-time Transit Data Integration: Implementing CDC from MBTA API to MySQL Database"
             icon: fab fa-github
             url: siconge.github.io/PCDE-Activity-9.1/
         description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
       
       - layout: top-left
-        title: Creating a Sensemaking Data Pipeline
+        sub_title: Creating a Sensemaking Data Pipeline
         additional_links:
           - title: Creating a Sensemaking Data Pipeline
             icon: fab fa-github
