@@ -52,11 +52,15 @@ linkedin_username: siconge
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  As a licensed architect in California with over a decade of practice in the design, documentation, and delivery of projects of all type across corporate headquarters, large scale urban mixed-use, retail, and hospitality, Sicong owns extensive and sophisticated experience in client interfacing as well as coordination with technical consultants in varieties of professions. His holistic methods in developing a range of architectural typologies lends him the freedom to select the best approach to each challenge. His practical outlook enables himself to provide clients with the clear input needed to progress toward a vision and provide design teams with the perspective necessary for effective solutions.
+  As a licensed architect in California with over a decade of practice in the design, documentation,
+  and delivery of projects of all type across corporate headquarters, large scale urban mixed-use, retail, and hospitality,
+  Sicong owns extensive and sophisticated experience in client interfacing as well as coordination with technical consultants in varieties of professions.
+  His holistic methods in developing a range of architectural typologies lends him the freedom to select the best approach to each challenge.
+  His practical outlook enables himself to provide clients with the clear input needed to progress toward a vision and provide design teams with
+  the perspective necessary for effective solutions.
   
-  As a project architect and team leader, Sicong orchestrates complex project teams and projects with a focused vision on the end result, coordinating with upper management, mentoring younger staff members, and maintaining the creative vision as his team navigates design issues.
-  
-  Sicong earned his Master of Architecture from University of Southern California (USC). He is a member of the American Institute of Architects (AIA), with National Council of Architectural Registration Boards (NCARB) certificate and LEED AP BD+C accreditation.
+  Sicong earned his Master of Architecture from University of Southern California (USC). He is a member of the American Institute of Architects (AIA),
+  with National Council of Architectural Registration Boards (NCARB) certificate and LEED AP BD+C accreditation.
 
   I am skilled in <mark>Python Development</mark> and <mark>Data Engineering</mark>, and interested in <mark>Machine Learning</mark>.
 
@@ -64,10 +68,10 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: top-left
         # border: weak  # Value of `weak` will display a weak border below this item.
                       # Any other value (or no value) means no border will be displayed
-        title: Build a Linear Regression Model for Housing Price Prediction
+        subtitle: Build a Linear Regression Model for Housing Price Prediction
         # link:
         # link_text: Link Text
         additional_links:
@@ -84,31 +88,34 @@ content:
         quote: >
           Skills involved: Python,
       
-      - layout: top-middle
+      - layout: top-left
         title: ETL Processing and Time Series Analysis of MRTS Dataset
         additional_links:
           - title: ETL Processing and Time Series Analysis of MRTS Dataset
             icon: fab fa-github
             url: siconge.github.io/PCDE-Activity-9.1/
         description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
       
-      - layout: top-middle
+      - layout: top-left
         title: Creating a Student Grades Database Using Redundant Dictionaries
         additional_links:
           - title: Creating a Student Grades Database Using Redundant Dictionaries
             icon: fab fa-github
             url: siconge.github.io/PCDE-Activity-9.1/
         description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
 
-      - layout: top-middle
+      - layout: top-left
         title: Creating a Books Web Application
         additional_links:
           - title: Creating a Books Web Application
             icon: fab fa-github
             url: siconge.github.io/PCDE-Activity-9.1/
         description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
       
-      - layout: top-middle
+      - layout: top-left
         title: "Real-time Transit Data Integration: Implementing CDC from MBTA API to MySQL Database"
         additional_links:
           - title: "Real-time Transit Data Integration: Implementing CDC from MBTA API to MySQL Database"
@@ -116,13 +123,14 @@ content:
             url: siconge.github.io/PCDE-Activity-9.1/
         description: | # this will include new lines to allow paragraphs
       
-      - layout: top-middle
+      - layout: top-left
         title: Creating a Sensemaking Data Pipeline
         additional_links:
           - title: Creating a Sensemaking Data Pipeline
             icon: fab fa-github
             url: siconge.github.io/PCDE-Activity-9.1/
         description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
 
   - title: Experience
     layout: list
