@@ -76,7 +76,7 @@ content:
         # link_text: Link Text
         additional_links:
           - title: Building a Linear Regression Model for Housing Price Prediction
-            icon: fab fa-github
+            icon: fab fa-github fa-2x
             url: siconge.github.io/PCDE-Activity-9.1/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
@@ -90,7 +90,7 @@ content:
         sub_title: ETL Processing and Time Series Analysis of MRTS Dataset
         additional_links:
           - title: ETL Processing and Time Series Analysis of MRTS Dataset
-            icon: fab fa-github
+            icon: <img src="images/favicon.svg">
             url: siconge.github.io/PCDE-Activity-9.1/
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
@@ -117,7 +117,7 @@ content:
         sub_title: "Real-time Transit Data Integration: Implementing CDC from MBTA API to MySQL Database"
         additional_links:
           - title: "Real-time Transit Data Integration: Implementing CDC from MBTA API to MySQL Database"
-            icon: fab fa-github
+            icon: fab fa-database
             url: siconge.github.io/PCDE-Activity-9.1/
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
