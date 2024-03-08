@@ -98,8 +98,7 @@ content:
     content:
       - layout: top-left
         title: MIT xPRO
-        sub_title: Professional Certificate in\n
-        Data Engineering
+        sub_title: Professional Certificate in\nData Engineering
         caption: Aug 2023 - Mar 2024
         link: xpro.mit.edu
         # quote: >
