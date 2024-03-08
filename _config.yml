@@ -109,9 +109,9 @@ content:
         description: | # this will include new lines to allow paragraphs
       
       - layout: top-middle
-        title: Real-time Transit Data Integration: Implementing CDC from MBTA API to MySQL Database
+        title: "Real-time Transit Data Integration: Implementing CDC from MBTA API to MySQL Database"
         additional_links:
-          - title: Real-time Transit Data Integration: Implementing CDC from MBTA API to MySQL Database
+          - title: "Real-time Transit Data Integration: Implementing CDC from MBTA API to MySQL Database"
             icon: fab fa-github
             url: siconge.github.io/PCDE-Activity-9.1/
         description: | # this will include new lines to allow paragraphs
