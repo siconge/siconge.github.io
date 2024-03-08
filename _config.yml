@@ -78,7 +78,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # quote: >
-          Short overview of the project (optional)
+        #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
   - title: Experience
@@ -90,7 +90,7 @@ content:
         caption: Sep 2021 - Dec 2023
         link: www.nbbj.com
         # quote: >
-          Short description of the company (optional)
+        #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
   - title: Education
