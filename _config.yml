@@ -90,7 +90,7 @@ content:
         sub_title: ETL Processing and Time Series Analysis of MRTS Dataset
         additional_links:
           - title: ETL Processing and Time Series Analysis of MRTS Dataset
-            icon: fas fa-timeline
+            icon: fas fa-chart-area #fa-timeline
             url: siconge.github.io/PCDE-Activity-9.1/
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
@@ -126,7 +126,7 @@ content:
         sub_title: Creating a Sensemaking Data Pipeline
         additional_links:
           - title: Creating a Sensemaking Data Pipeline
-            icon: fas fa-arrows-turn-to-dots # fas fa-sitemap
+            icon: fas fa-sitemap # fas fa-arrows-turn-to-dots
             url: siconge.github.io/PCDE-Activity-9.1/
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
