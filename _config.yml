@@ -141,9 +141,7 @@ content:
     content:
       - layout: top-left
         title: MIT xPRO
-        sub_title: |
-          Professional Certificate in
-          Data Engineering
+        sub_title: Prof. Certificate in Data Engineering
         caption: Aug 2023 - Mar 2024
         link: xpro.mit.edu
         # quote: >
