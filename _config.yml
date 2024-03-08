@@ -84,11 +84,11 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+      - layout: top-left
+        title: NBBJ
+        sub_title: Project Architect
+        caption: September 2021 - December 2023
+        link: www.nbbj.com
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
@@ -97,14 +97,13 @@ content:
     layout: list
     content:
       - layout: top-left
-        title: University of Southern California
-        sub_title: Master of Architecture
-        caption: 2009 - 2011
+        title: MIT xPRO
+        sub_title: Professional Certificate in Data Engineering
+        caption: August 2023 - March 2024
         # quote: >
           # Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-    content:
       - layout: top-left
         title: University of Southern California
         sub_title: Master of Architecture
