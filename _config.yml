@@ -64,10 +64,10 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
+      - layout: left
         # border: weak  # Value of `weak` will display a weak border below this item.
                       # Any other value (or no value) means no border will be displayed
-        sub_title: Build a Linear Regression Model for Housing Price Prediction
+        title: Build a Linear Regression Model for Housing Price Prediction
         # link: siconge.github.io/PCDE-Activity-9.1/
         # link_text: Link Text
         additional_links:
@@ -100,7 +100,6 @@ content:
         title: MIT xPRO
         sub_title: |
           Professional Certificate in
-          
           Data Engineering
         caption: Aug 2023 - Mar 2024
         link: xpro.mit.edu
@@ -117,7 +116,7 @@ content:
           # Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-  - title: A Little More About Me
+  - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
