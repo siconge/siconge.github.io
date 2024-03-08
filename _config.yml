@@ -76,7 +76,7 @@ content:
         # link_text: Link Text
         additional_links:
           - title: Building a Linear Regression Model for Housing Price Prediction
-            icon: fas fa-chart-line fa-1.5x
+            icon: fas fa-chart-area
             url: siconge.github.io/PCDE-Activity-9.1/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
@@ -90,7 +90,7 @@ content:
         sub_title: ETL Processing and Time Series Analysis of MRTS Dataset
         additional_links:
           - title: ETL Processing and Time Series Analysis of MRTS Dataset
-            icon: fas fa-gear fa-1.5x
+            icon: fas fa-gears
             url: siconge.github.io/PCDE-Activity-9.1/
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
@@ -99,7 +99,7 @@ content:
         sub_title: Creating a Student Grades Database Using Redundant Dictionaries
         additional_links:
           - title: Creating a Student Grades Database Using Redundant Dictionaries
-            icon: fas fa-book fa-1.5x
+            icon: fas fa-book
             url: siconge.github.io/PCDE-Activity-9.1/
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
@@ -108,7 +108,7 @@ content:
         sub_title: Creating a Books Web Application
         additional_links:
           - title: Creating a Books Web Application
-            icon: fas fa-server fa-1.5x
+            icon: fas fa-server
             url: siconge.github.io/PCDE-Activity-9.1/
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
@@ -117,7 +117,7 @@ content:
         sub_title: "Real-time Transit Data Integration: Implementing CDC from MBTA API to MySQL Database"
         additional_links:
           - title: "Real-time Transit Data Integration: Implementing CDC from MBTA API to MySQL Database"
-            icon: fas fa-route fa-1.5x
+            icon: fas fa-route
             url: siconge.github.io/PCDE-Activity-9.1/
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
@@ -126,7 +126,7 @@ content:
         sub_title: Creating a Sensemaking Data Pipeline
         additional_links:
           - title: Creating a Sensemaking Data Pipeline
-            icon: fas fa-sitemap fa-1.5x
+            icon: fas fa-sitemap
             url: siconge.github.io/PCDE-Activity-9.1/
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
