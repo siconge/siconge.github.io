@@ -67,7 +67,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: <h3>Building a Linear Regression Model for Housing Price Prediction</h3>
+        sub_title: Build a Linear Regression Model for Housing Price Prediction
         # link: siconge.github.io/PCDE-Activity-9.1/
         # link_text: Link Text
         additional_links:
@@ -89,7 +89,7 @@ content:
         sub_title: Project Architect
         caption: Sep 2021 - Dec 2023
         link: www.nbbj.com
-        quote: >
+        quote: |
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
@@ -98,7 +98,9 @@ content:
     content:
       - layout: top-left
         title: MIT xPRO
-        sub_title: Professional Certificate in\nData Engineering
+        sub_title: |
+          Professional Certificate in
+          Data Engineering
         caption: Aug 2023 - Mar 2024
         link: xpro.mit.edu
         # quote: >
