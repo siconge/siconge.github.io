@@ -130,15 +130,15 @@ content:
           <a href="https://siconge.github.io/A-Linear-Regression-Model-for-Housing-Price-Prediction">Preview</a>
       
       - layout: top-left
-        sub_title: Creating a Sensemaking Data Pipeline
+        sub_title: ETL Pipeline Automation and Word Frequencies Visualization
         additional_links:
           - title: Github repo for project
             icon: fab fa-github fa-2x
-            url: https://github.com/siconge/A-Linear-Regression-Model-for-Housing-Price-Prediction
+            url: https://github.com/siconge/ETL-Pipeline-Automation-and-Word-Frequencies-Visualization
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
           
-          <a href="https://siconge.github.io/A-Linear-Regression-Model-for-Housing-Price-Prediction">Preview</a>
+          <a href="https://siconge.github.io/ETL-Pipeline-Automation-and-Word-Frequencies-Visualization">Preview</a>
 
   - title: Experience
     layout: list
