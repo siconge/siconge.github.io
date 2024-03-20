@@ -82,6 +82,7 @@ content:
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
+          Skills/Tools: Python
           
           <a href="https://siconge.github.io/A-Linear-Regression-Model-for-Housing-Price-Prediction">Preview</a>
       
@@ -92,7 +93,7 @@ content:
             icon: fab fa-github fa-2x
             url: https://github.com/siconge/A-Linear-Regression-Model-for-Housing-Price-Prediction
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Skills/Tools: Python, MySQL
           
           <a href="https://siconge.github.io/A-Linear-Regression-Model-for-Housing-Price-Prediction">Preview</a>
       
@@ -101,9 +102,9 @@ content:
         additional_links:
           - title: Github repo for project
             icon: fab fa-github fa-2x
-            url: https://github.com/siconge/A-Linear-Regression-Model-for-Housing-Price-Prediction
+            url: https://github.com/siconge/
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Skills/Tools: Python
           
           <a href="https://siconge.github.io/A-Linear-Regression-Model-for-Housing-Price-Prediction">Preview</a>
           
@@ -112,22 +113,23 @@ content:
         additional_links:
           - title: Github repo for project
             icon: fab fa-github fa-2x
-            url: https://github.com/siconge/A-Linear-Regression-Model-for-Housing-Price-Prediction
+            url: https://github.com/siconge/
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Skills/Tools: Python Flask 
           
           <a href="https://siconge.github.io/A-Linear-Regression-Model-for-Housing-Price-Prediction">Preview</a>
       
       - layout: top-left
-        sub_title: "Real-time Transit Data Integration: Implementing CDC from MBTA API to MySQL Database"
+        sub_title: "Real-time Transit Data CDC from MBTA-API to MySQL Database"
         additional_links:
           - title: Github repo for project
             icon: fab fa-github fa-2x
-            url: https://github.com/siconge/A-Linear-Regression-Model-for-Housing-Price-Prediction
+            url: https://github.com/siconge/Realtime-Transit-Data-CDC-from-MBTA-API-to-MySQL-Database
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Module 16
+          Skills/Tools: Python, MySQL, CLI
           
-          <a href="https://siconge.github.io/A-Linear-Regression-Model-for-Housing-Price-Prediction">Preview</a>
+          <a href="https://siconge.github.io/Real-time-Transit-Data-CDC-from-MBTA-API-to-MySQL-Database">Preview</a>
       
       - layout: top-left
         sub_title: ETL Pipeline Automation and Word Frequencies Visualization
@@ -136,7 +138,20 @@ content:
             icon: fab fa-github fa-2x
             url: https://github.com/siconge/ETL-Pipeline-Automation-and-Word-Frequencies-Visualization
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Module 23
+          Skills/Tools: Python, Apache Airflow, JavaScript D3, HTML
+          
+          <a href="https://siconge.github.io/ETL-Pipeline-Automation-and-Word-Frequencies-Visualization">Preview</a>
+
+      - layout: top-left
+        sub_title: Handling Big Data with Mosquitto, ThingsBoard, and Kafka
+        additional_links:
+          - title: Github repo for project
+            icon: fab fa-github fa-2x
+            url: https://github.com/siconge/
+        description: | # this will include new lines to allow paragraphs
+          Module 24
+          Skills/Tools: Mosquitto, ThingsBoard, Kafka, Python
           
           <a href="https://siconge.github.io/ETL-Pipeline-Automation-and-Word-Frequencies-Visualization">Preview</a>
 
