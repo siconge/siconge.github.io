@@ -81,8 +81,11 @@ content:
         # quote: >
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
+          **Module 7**
+          
           Description about the work on/with the project
-          Skills/Tools: Python
+          
+          Skills/Tools: Python SKlearn/Pandas/Numpy
           
           <a href="https://siconge.github.io/A-Linear-Regression-Model-for-Housing-Price-Prediction">Preview</a>
       
@@ -91,11 +94,15 @@ content:
         additional_links:
           - title: Github repo for project
             icon: fab fa-github fa-2x
-            url: https://github.com/siconge/A-Linear-Regression-Model-for-Housing-Price-Prediction
+            url: https://github.com/siconge/ETL-Processing-and-Time-Series-Analysis-of-MRTS-Dataset
         description: | # this will include new lines to allow paragraphs
-          Skills/Tools: Python, MySQL
+          **Module 8**
           
-          <a href="https://siconge.github.io/A-Linear-Regression-Model-for-Housing-Price-Prediction">Preview</a>
+          Description about the work on/with the project
+          
+          **Skills/Tools**: Python SQLAlchemy/Pandas/Numpy, MySQL
+          
+          <a href="https://siconge.github.io/ETL-Processing-and-Time-Series-Analysis-of-MRTS-Dataset">Preview</a>
       
       - layout: top-left
         sub_title: Creating a Student Grades Database Using Redundant Dictionaries
@@ -104,9 +111,13 @@ content:
             icon: fab fa-github fa-2x
             url: https://github.com/siconge/
         description: | # this will include new lines to allow paragraphs
-          Skills/Tools: Python
+          **Module 15**
           
-          <a href="https://siconge.github.io/A-Linear-Regression-Model-for-Housing-Price-Prediction">Preview</a>
+          Description about the work on/with the project
+          
+          **Skills/Tools**: Python
+          
+          <a href="https://siconge.github.io/">Preview</a>
           
       - layout: top-left
         sub_title: Creating a Books Web Application
@@ -115,9 +126,13 @@ content:
             icon: fab fa-github fa-2x
             url: https://github.com/siconge/
         description: | # this will include new lines to allow paragraphs
-          Skills/Tools: Python Flask 
+          **Module 15**
           
-          <a href="https://siconge.github.io/A-Linear-Regression-Model-for-Housing-Price-Prediction">Preview</a>
+          Description about the work on/with the project
+          
+          **Skills/Tools**: Python Flask, HTML
+          
+          <a href="https://siconge.github.io/">Preview</a>
       
       - layout: top-left
         sub_title: "Real-time Transit Data CDC from MBTA-API to MySQL Database"
@@ -126,8 +141,11 @@ content:
             icon: fab fa-github fa-2x
             url: https://github.com/siconge/Realtime-Transit-Data-CDC-from-MBTA-API-to-MySQL-Database
         description: | # this will include new lines to allow paragraphs
-          Module 16
-          Skills/Tools: Python, MySQL, CLI
+          **Module 16**
+          
+          Description about the work on/with the project
+          
+          **Skills/Tools**: Python, MySQL, Docker, CLI
           
           <a href="https://siconge.github.io/Real-time-Transit-Data-CDC-from-MBTA-API-to-MySQL-Database">Preview</a>
       
@@ -138,8 +156,11 @@ content:
             icon: fab fa-github fa-2x
             url: https://github.com/siconge/ETL-Pipeline-Automation-and-Word-Frequencies-Visualization
         description: | # this will include new lines to allow paragraphs
-          Module 23
-          Skills/Tools: Python, Apache Airflow, JavaScript D3, HTML
+          **Module 23**
+          
+          Description about the work on/with the project
+          
+          Skills/Tools: Python, Apache Airflow, JavaScript D3, Docker, HTML
           
           <a href="https://siconge.github.io/ETL-Pipeline-Automation-and-Word-Frequencies-Visualization">Preview</a>
 
@@ -150,10 +171,29 @@ content:
             icon: fab fa-github fa-2x
             url: https://github.com/siconge/
         description: | # this will include new lines to allow paragraphs
-          Module 24
-          Skills/Tools: Mosquitto, ThingsBoard, Kafka, Python
+          **Module 24**
+          
+          Description about the work on/with the project
+          
+          Skills/Tools: Mosquitto, ThingsBoard, Apache Kafka, Docker, Python
           
           <a href="https://siconge.github.io/ETL-Pipeline-Automation-and-Word-Frequencies-Visualization">Preview</a>
+
+      - layout: top-left
+        sub_title: Machine Learning
+        additional_links:
+          - title: Github repo for project
+            icon: fab fa-github fa-2x
+            url: https://github.com/siconge/
+        description: | # this will include new lines to allow paragraphs
+          **Module 20-21**
+          
+          Description about the work on/with the project
+          
+          Skills/Tools: Python SKlearn/Pandas/Numpy
+          
+          <a href="https://siconge.github.io/ETL-Pipeline-Automation-and-Word-Frequencies-Visualization">Preview</a>
+
 
   - title: Experience
     layout: list
