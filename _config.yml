@@ -68,7 +68,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
+      - layout: top
         # border: weak  # Value of `weak` will display a weak border below this item.
                       # Any other value (or no value) means no border will be displayed
         sub_title: Build a Linear Regression Model for Housing Price Prediction
@@ -85,7 +85,7 @@ content:
           
           Description about the work on/with the project
           
-          Skills/Tools: Python SKlearn/Pandas/Numpy
+          **Skills/Tools**: Python SKlearn/Pandas/Numpy
           
           <a href="https://siconge.github.io/A-Linear-Regression-Model-for-Housing-Price-Prediction">Preview</a>
       
@@ -147,7 +147,7 @@ content:
           
           **Skills/Tools**: Python, MySQL, Docker, CLI
           
-          <a href="https://siconge.github.io/Real-time-Transit-Data-CDC-from-MBTA-API-to-MySQL-Database">Preview</a>
+          <a href="https://siconge.github.io/Realtime-Transit-Data-CDC-from-MBTA-API-to-MySQL-Database">Preview</a>
       
       - layout: top-left
         sub_title: ETL Pipeline Automation and Word Frequencies Visualization
@@ -160,7 +160,7 @@ content:
           
           Description about the work on/with the project
           
-          Skills/Tools: Python, Apache Airflow, JavaScript D3, Docker, HTML
+          **Skills/Tools**: Python, Apache Airflow, JavaScript D3, Docker, HTML
           
           <a href="https://siconge.github.io/ETL-Pipeline-Automation-and-Word-Frequencies-Visualization">Preview</a>
 
@@ -175,9 +175,9 @@ content:
           
           Description about the work on/with the project
           
-          Skills/Tools: Mosquitto, ThingsBoard, Apache Kafka, Docker, Python
+          **Skills/Tools**: Mosquitto, ThingsBoard, Apache Kafka, Docker, Python
           
-          <a href="https://siconge.github.io/ETL-Pipeline-Automation-and-Word-Frequencies-Visualization">Preview</a>
+          <a href="https://siconge.github.io/">Preview</a>
 
       - layout: top-left
         sub_title: Machine Learning
@@ -188,11 +188,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Module 20-21**
           
-          Description about the work on/with the project
+          Gradient Descent, Classification, Q-Matrix, Deep Neural Network
           
-          Skills/Tools: Python SKlearn/Pandas/Numpy
+          **Skills/Tools**: Python SKlearn/Pandas/Numpy
           
-          <a href="https://siconge.github.io/ETL-Pipeline-Automation-and-Word-Frequencies-Visualization">Preview</a>
+          <a href="https://siconge.github.io/">Preview</a>
 
 
   - title: Experience
