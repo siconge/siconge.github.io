@@ -52,18 +52,16 @@ linkedin_username: siconge
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  As a licensed architect in California with over a decade of practice in the design, documentation,
-  and delivery of projects of all type across corporate headquarters, large scale urban mixed-use, retail, and hospitality,
-  Sicong owns extensive and sophisticated experience in client interfacing as well as coordination with technical consultants in varieties of professions.
-  His holistic methods in developing a range of architectural typologies lends him the freedom to select the best approach to each challenge.
-  His practical outlook enables himself to provide clients with the clear input needed to progress toward a vision and provide design teams with
-  the perspective necessary for effective solutions.
+  Aspiring Data Engineer with a robust background in architecture, specializing in <mark>data pipeline development, <mark>ETL automation, 
+  and leveraging advanced analytical tools to drive data-driven decision-making. Proven expertise in <mark>Python</mark>, <mark>SQL</mark>, 
+  <mark>AWS</mark>, and <mark>Apache Airflow and Spark</mark>, 
+  with a demonstrated ability to manage complex projects and lead cross-functional teams.
   
-  Sicong earned his Master of Architecture from University of Southern California (USC). He is a member of the American Institute of Architects (AIA),
-  with National Council of Architectural Registration Boards (NCARB) certificate and LEED AP BD+C accreditation.
-
-  I am skilled in <mark>Python Development</mark> and <mark>Data Engineering</mark>, and interested in <mark>Machine Learning</mark>.
-
+  Licensed Architect with over a decade of experience, now transitioning to a Data Engineer role to integrate architectural insights with data engineering solutions. 
+  Passionate about continuous learning and professional development, aiming to contribute to innovative data engineering projects.
+  
+  Sicong earned his Master of Architecture from University of Southern California (USC), and Professional Certificate in Data Engineering from MIT xPRO. 
+  He is a licensed architect in California and holds AWS Certified Solutions Architect - Associate certification.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
