@@ -52,7 +52,7 @@ linkedin_username: siconge
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Aspiring Data Engineer with a robust background in architecture, specializing in <mark>data pipeline development</mark>, <mark>ETL automation</mark>, 
+  Aspiring Data Engineer with a robust background in architecture and construction, specializing in <mark>data pipeline development</mark>, <mark>ETL automation</mark>, 
   and leveraging advanced analytical tools to drive data-driven decision-making. Proven expertise in <mark>Python</mark>, <mark>SQL</mark>, 
   <mark>AWS</mark>, and <mark>Apache Airflow and Spark</mark>, 
   with a demonstrated ability to manage complex projects and lead cross-functional teams.
@@ -160,19 +160,6 @@ content:
           **Skills/Tools**: Python SKlearn/Pandas/Numpy
           
           <a href="https://siconge.github.io/Housing-Price-Prediction-with-Linear-Regression">Preview</a>
-          
-      - layout: top-left
-        sub_title: Build a Linear Regression Model for Housing Price Prediction
-        additional_links:
-          - title:  Github repo for project
-            icon: fab fa-github fa-2x
-            url: https://github.com/siconge/A-Linear-Regression-Model-for-Housing-Price-Prediction
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-          
-          **Skills/Tools**: Python SKlearn/Pandas/Numpy
-          
-          <a href="https://siconge.github.io/A-Linear-Regression-Model-for-Housing-Price-Prediction">Preview</a>
 
       - layout: top-left
         sub_title: "Real-time Transit Data CDC from MBTA to MySQL"
@@ -207,8 +194,6 @@ content:
             icon: fab fa-github fa-2x
             url: https://github.com/siconge/MIT-Course-Catalog-NLP-Word-Frequency-ETL-and-D3-Visualization
         description: | # this will include new lines to allow paragraphs
-          **Module 23**
-          
           Description about the work on/with the project
           
           **Skills/Tools**: Python, Apache Airflow, JavaScript D3, Docker, HTML
