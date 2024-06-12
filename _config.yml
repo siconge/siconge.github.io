@@ -7,10 +7,10 @@ version: 2
 
 # Personal info
 name: Sicong E
-title: Project Architect
+title: Data Engineer
 email: esicong@gmail.com
 # email_title: Email (Email title override)
-phone: +1(000)000-0000
+phone: +1(213)400-2486
 # phone_title: Phone (Phone title override)
 website: https://siconge.github.io
 # website_title: Web (Website title override)
@@ -52,7 +52,7 @@ linkedin_username: siconge
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Aspiring Data Engineer with a robust background in architecture, specializing in <mark>data pipeline development, <mark>ETL automation, 
+  Aspiring Data Engineer with a robust background in architecture, specializing in <mark>data pipeline development</mark>, <mark>ETL automation</mark>, 
   and leveraging advanced analytical tools to drive data-driven decision-making. Proven expertise in <mark>Python</mark>, <mark>SQL</mark>, 
   <mark>AWS</mark>, and <mark>Apache Airflow and Spark</mark>, 
   with a demonstrated ability to manage complex projects and lead cross-functional teams.
@@ -62,149 +62,42 @@ about_content: | # this will include new lines to allow paragraphs
   
   Sicong earned his Master of Architecture from University of Southern California (USC), and Professional Certificate in Data Engineering from MIT xPRO. 
   He is a licensed architect in California and holds AWS Certified Solutions Architect - Associate certification.
+
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-left
-        # border: weak  # Value of `weak` will display a weak border below this item.
-                      # Any other value (or no value) means no border will be displayed
-        sub_title: Build a Linear Regression Model for Housing Price Prediction
-        # link:
-        # link_text: Link Text
-        additional_links:
-          - title:  Github repo for project
-            icon: fab fa-github fa-2x
-            url: https://github.com/siconge/A-Linear-Regression-Model-for-Housing-Price-Prediction
-        # quote: >
-        #   Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          **Module 7**
-          
-          Description about the work on/with the project
-          
-          **Skills/Tools**: Python SKlearn/Pandas/Numpy
-          
-          <a href="https://siconge.github.io/A-Linear-Regression-Model-for-Housing-Price-Prediction">Preview</a>
-      
-      - layout: top-left
-        sub_title: ETL Processing and Time Series Analysis of MRTS Dataset
-        additional_links:
-          - title: Github repo for project
-            icon: fab fa-github fa-2x
-            url: https://github.com/siconge/ETL-Processing-and-Time-Series-Analysis-of-MRTS-Dataset
-        description: | # this will include new lines to allow paragraphs
-          **Module 8**
-          
-          Description about the work on/with the project
-          
-          **Skills/Tools**: Python SQLAlchemy/Pandas/Numpy, MySQL
-          
-          <a href="https://siconge.github.io/ETL-Processing-and-Time-Series-Analysis-of-MRTS-Dataset">Preview</a>
-      
-      - layout: top-left
-        sub_title: Creating a Student Grades Database Using Redundant Dictionaries
-        additional_links:
-          - title: Github repo for project
-            icon: fab fa-github fa-2x
-            url: https://github.com/siconge/
-        description: | # this will include new lines to allow paragraphs
-          **Module 15**
-          
-          Description about the work on/with the project
-          
-          **Skills/Tools**: Python
-          
-          <a href="https://siconge.github.io/">Preview</a>
-          
-      - layout: top-left
-        sub_title: Creating a Books Web Application
-        additional_links:
-          - title: Github repo for project
-            icon: fab fa-github fa-2x
-            url: https://github.com/siconge/
-        description: | # this will include new lines to allow paragraphs
-          **Module 15**
-          
-          Description about the work on/with the project
-          
-          **Skills/Tools**: Python Flask, HTML
-          
-          <a href="https://siconge.github.io/">Preview</a>
-      
-      - layout: top-left
-        sub_title: "Real-time Transit Data CDC from MBTA-API to MySQL Database"
-        additional_links:
-          - title: Github repo for project
-            icon: fab fa-github fa-2x
-            url: https://github.com/siconge/Realtime-Transit-Data-CDC-from-MBTA-API-to-MySQL-Database
-        description: | # this will include new lines to allow paragraphs
-          **Module 16**
-          
-          Description about the work on/with the project
-          
-          **Skills/Tools**: Python, MySQL, Docker, CLI
-          
-          <a href="https://siconge.github.io/Realtime-Transit-Data-CDC-from-MBTA-API-to-MySQL-Database">Preview</a>
-      
-      - layout: top-left
-        sub_title: ETL Pipeline Automation and Word Frequencies Visualization
-        additional_links:
-          - title: Github repo for project
-            icon: fab fa-github fa-2x
-            url: https://github.com/siconge/ETL-Pipeline-Automation-and-Word-Frequencies-Visualization
-        description: | # this will include new lines to allow paragraphs
-          **Module 23**
-          
-          Description about the work on/with the project
-          
-          **Skills/Tools**: Python, Apache Airflow, JavaScript D3, Docker, HTML
-          
-          <a href="https://siconge.github.io/ETL-Pipeline-Automation-and-Word-Frequencies-Visualization">Preview</a>
-
-      - layout: top-left
-        sub_title: Handling Big Data with Mosquitto, ThingsBoard, and Kafka
-        additional_links:
-          - title: Github repo for project
-            icon: fab fa-github fa-2x
-            url: https://github.com/siconge/
-        description: | # this will include new lines to allow paragraphs
-          **Module 24**
-          
-          Description about the work on/with the project
-          
-          **Skills/Tools**: Mosquitto, ThingsBoard, Apache Kafka, Docker, Python
-          
-          <a href="https://siconge.github.io/">Preview</a>
-
-      - layout: top-left
-        sub_title: Machine Learning
-        additional_links:
-          - title: Github repo for project
-            icon: fab fa-github fa-2x
-            url: https://github.com/siconge/
-        description: | # this will include new lines to allow paragraphs
-          **Module 20-21**
-          
-          Gradient Descent, Classification, Q-Matrix, Deep Neural Network
-          
-          **Skills/Tools**: Python SKlearn/Pandas/Numpy
-          
-          <a href="https://siconge.github.io/">Preview</a>
-
 
   - title: Experience
     layout: list
     content:
       - layout: top-left
         title: NBBJ
-        sub_title: Project Architect
+        sub_title: Lead Project Architect | BIM Data Engineer
         caption: Sep 2021 - Dec 2023
         link: www.nbbj.com
-        # quote: >
+        quote: >
+          Global architecture and design firm integrating data-driven methodologies for enhanced decision-making
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          - Developed a comprehensive data pipeline using Apache Airflow and AWS services (S3, Glue, Athena, Redshift) 
+          to manage BIM data for 6,600 curtain wall units of the 207,700 m² Tencent Global Headquarters
+          - Automated ETL processes with Autodesk Platform Services API for real-time data extraction, Pandas for pre-processing, 
+          and Glue and Spark for further transformation, reducing manual workload by over 75% and improving project efficiency by over 50%
+          - Facilitated informed and timely decision-making by providing accessible data and insights using Athena and Redshift for design decisions, 
+          construction modifications, cost estimation, and regulatory compliance
+          - Led a team of 15 architects across 3 global studios, overseeing client and consultant coordination, and technical solutions, 
+          ensuring seamless project execution and stakeholder satisfaction.
+
+      - layout: top-left
+        title: 5+design
+        sub_title: Project Designer | BIM Manager
+        caption: Jun 2011 - Sep 2019
+        link: www.5plusdesign.com/
+        quote: >
+          Architecture firm specializing in retail, mixed-use, residential, and large-scale urban planning
+        #   Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Leveraged BIM software to streamline design modeling and documentation for 10+ global projects, increasing project planning and delivery efficiency by 33%
+          - Conducted data analysis on data-driven facade modules to support parametric design feasibility studies
+          
   - title: Education
     layout: list
     content:
@@ -226,6 +119,102 @@ content:
           # Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
+          
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-left
+        # border: weak  # Value of `weak` will display a weak border below this item.
+                      # Any other value (or no value) means no border will be displayed
+        sub_title: Tencent HQ BIM Data Pipeline with AWS
+        # link:
+        # link_text: Link Text
+        additional_links:
+          - title:  Github repo for project
+            icon: fab fa-github fa-2x
+            url: https://github.com/siconge/Tencent-HQ-BIM-Data-Pipeline-with-AWS
+        # border: weak  # Value of `weak` will display a weak border below this item.
+                      # Any other value (or no value) means no border will be displayed
+        # quote: >
+        #   Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+          
+          **Skills/Tools**: Python SKlearn/Pandas/Numpy
+          
+          <a href="https://siconge.github.io/Tencent-HQ-BIM-Data-Pipeline-with-AWS">Preview</a>
+      
+      - layout: top-left
+        sub_title: Housing Price Prediction with Linear Regression
+        # link:
+        # link_text: Link Text
+        additional_links:
+          - title:  Github repo for project
+            icon: fab fa-github fa-2x
+            url: https://github.com/siconge/Housing-Price-Prediction-with-Linear-Regression
+        # quote: >
+        #   Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+          
+          **Skills/Tools**: Python SKlearn/Pandas/Numpy
+          
+          <a href="https://siconge.github.io/Housing-Price-Prediction-with-Linear-Regression">Preview</a>
+          
+      - layout: top-left
+        sub_title: Build a Linear Regression Model for Housing Price Prediction
+        additional_links:
+          - title:  Github repo for project
+            icon: fab fa-github fa-2x
+            url: https://github.com/siconge/A-Linear-Regression-Model-for-Housing-Price-Prediction
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+          
+          **Skills/Tools**: Python SKlearn/Pandas/Numpy
+          
+          <a href="https://siconge.github.io/A-Linear-Regression-Model-for-Housing-Price-Prediction">Preview</a>
+
+      - layout: top-left
+        sub_title: "Real-time Transit Data CDC from MBTA to MySQL"
+        additional_links:
+          - title: Github repo for project
+            icon: fab fa-github fa-2x
+            url: https://github.com/siconge/Real-time-Transit-Data-CDC-from-MBTA-to-MySQL
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+          
+          **Skills/Tools**: Python, MySQL, Docker, CLI
+          
+          <a href="https://siconge.github.io/Real-time-Transit-Data-CDC-from-MBTA-to-MySQL">Preview</a>
+          
+      - layout: top-left
+        sub_title: MRTS Data ETL and Time Series Analysis
+        additional_links:
+          - title: Github repo for project
+            icon: fab fa-github fa-2x
+            url: https://github.com/siconge/MRTS-Data-ETL-and-Time-Series-Analysis
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+          
+          **Skills/Tools**: Python SQLAlchemy/Pandas/Numpy, MySQL
+          
+          <a href="https://siconge.github.io/MRTS-Data-ETL-and-Time-Series-Analysis">Preview</a>
+          
+      - layout: top-left
+        sub_title: MIT Course Catalog NLP Word Frequency ETL and D3 Visualization
+        additional_links:
+          - title: Github repo for project
+            icon: fab fa-github fa-2x
+            url: https://github.com/siconge/MIT-Course-Catalog-NLP-Word-Frequency-ETL-and-D3-Visualization
+        description: | # this will include new lines to allow paragraphs
+          **Module 23**
+          
+          Description about the work on/with the project
+          
+          **Skills/Tools**: Python, Apache Airflow, JavaScript D3, Docker, HTML
+          
+          <a href="https://siconge.github.io/MIT-Course-Catalog-NLP-Word-Frequency-ETL-and-D3-Visualizationn">Preview</a>
+          
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
