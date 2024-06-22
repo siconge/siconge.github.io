@@ -152,30 +152,38 @@ content:
           to meet various code requirements while maintaining the overall design intent. This approach ensures precise tracking and management of architectural elements, 
           enhancing overall project outcomes.
           
-          <a href="https://siconge.github.io/Tencent-HQ-BIM-Data-Pipeline-with-AWS">READ ME</a>
+          <a href="https://siconge.github.io/Tencent-HQ-BIM-Data-Pipeline-with-AWS">Continue reading >></a>
 
       
-      - layout: top-left
-        sub_title: "Real-time Transit Data Pipeline: ETL and CDC from MBTA to MySQL and MongoDB"
-        additional_links:
-          - title: Github repo for project
-            icon: fab fa-github fa-2x
-            url: https://github.com/siconge/Real-time-Transit-Data-Pipeline-MBTA-ETL-CDC
+      - layout: top-middle
+        title: "Real-time Transit Data Pipeline: ETL and CDC from MBTA to MySQL and MongoDB"
+        link: github.com/siconge/Real-time-Transit-Data-Pipeline-MBTA-ETL-CDC
+        # additional_links:
+        #   - title: Github repo for project
+        #     icon: fab fa-github fa-2x
+        #     url: https://github.com/siconge/Real-time-Transit-Data-Pipeline-MBTA-ETL-CDC
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          This project presents a comprehensive and integrated real-world data engineering pipeline that leverages real-time transit data from 
+          the Massachusetts Bay Transportation Authority (MBTA).
           
-          **Skills/Tools**: Python, MySQL, Docker, CLI
+          The pipeline demonstrates the use of Extract, Transform, Load (ETL) and Change Data Capture (CDC) processes to ensure real-time data ingestion and storage, 
+          as well as data synchronization across storage systems for efficient data replication and consistency. Utilizing a variety of data engineering tools and technologies, 
+          including Docker, Apache Airflow, MySQL, MongoDB, and Python MySQL Replication, the pipeline supports real-time data availability, event-driven architectures, 
+          and disaster recovery. This makes it an exemplary model for handling dynamic data in a production-like environment.
           
-          <a href="https://siconge.github.io/Real-time-Transit-Data-Pipeline-MBTA-ETL-CDC">Preview</a>
+          In addition to real-time data handling, the pipeline also facilitates historical data analysis and visualization. 
+          This enables time-series analysis and trend detection to provide insights into transit patterns, informing decision-making and optimizing transit operations.
           
-      - layout: top-left
-        sub_title: Housing Price Prediction with Linear Regression
-        # link:
+          <a href="https://siconge.github.io/Real-time-Transit-Data-Pipeline-MBTA-ETL-CDC">Continue reading >></a>
+          
+      - layout: top-middle
+        title: Housing Price Prediction with Linear Regression
+        link: github.com/siconge/Housing-Price-Prediction-with-Linear-Regression
         # link_text: Link Text
-        additional_links:
-          - title:  Github repo for project
-            icon: fab fa-github fa-2x
-            url: https://github.com/siconge/Housing-Price-Prediction-with-Linear-Regression
+        # additional_links:
+        #   - title:  Github repo for project
+        #     icon: fab fa-github fa-2x
+        #     url: https://github.com/siconge/Housing-Price-Prediction-with-Linear-Regression
         # quote: >
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
@@ -185,12 +193,13 @@ content:
           
           <a href="https://siconge.github.io/Housing-Price-Prediction-with-Linear-Regression">Preview</a>
           
-      - layout: top-left
-        sub_title: MRTS Data ETL and Time Series Analysis
-        additional_links:
-          - title: Github repo for project
-            icon: fab fa-github fa-2x
-            url: https://github.com/siconge/MRTS-Data-ETL-and-Time-Series-Analysis
+      - layout: top-middle
+        title: MRTS Data ETL and Time Series Analysis
+        link: github.com/siconge/MRTS-Data-ETL-and-Time-Series-Analysis
+        # additional_links:
+        #   - title: Github repo for project
+        #     icon: fab fa-github fa-2x
+        #     url: https://github.com/siconge/MRTS-Data-ETL-and-Time-Series-Analysis
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
           
@@ -198,12 +207,13 @@ content:
           
           <a href="https://siconge.github.io/MRTS-Data-ETL-and-Time-Series-Analysis">Preview</a>
           
-      - layout: top-left
-        sub_title: MIT Course Catalog NLP Word Frequency ETL and D3 Visualization
-        additional_links:
-          - title: Github repo for project
-            icon: fab fa-github fa-2x
-            url: https://github.com/siconge/MIT-Course-Catalog-NLP-Word-Frequency-ETL-and-D3-Visualization
+      - layout: top-middle
+        title: MIT Course Catalog NLP Word Frequency ETL and D3 Visualization
+        link: github.com/siconge/MIT-Course-Catalog-NLP-Word-Frequency-ETL-and-D3-Visualization
+        # additional_links:
+        #   - title: Github repo for project
+        #     icon: fab fa-github fa-2x
+        #     url: https://github.com/siconge/MIT-Course-Catalog-NLP-Word-Frequency-ETL-and-D3-Visualization
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
           
