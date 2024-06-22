@@ -126,7 +126,7 @@ content:
       - layout: top-left
         # border: weak  # Value of `weak` will display a weak border below this item.
                       # Any other value (or no value) means no border will be displayed
-        sub_title: Tencent HQ BIM Data Pipeline with AWS
+        sub_title: Tencent Headquarters BIM Data Pipeline Using Revit, Apache Airflow, and AWS Services
         # link:
         # link_text: Link Text
         additional_links:
@@ -145,6 +145,19 @@ content:
           <a href="https://siconge.github.io/Tencent-HQ-BIM-Data-Pipeline-with-AWS">Preview</a>
       
       - layout: top-left
+        sub_title: "Real-time Transit Data Pipeline: ETL and CDC from MBTA to MySQL and MongoDB"
+        additional_links:
+          - title: Github repo for project
+            icon: fab fa-github fa-2x
+            url: https://github.com/siconge/Real-time-Transit-Data-Pipeline-MBTA-ETL-CDC
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+          
+          **Skills/Tools**: Python, MySQL, Docker, CLI
+          
+          <a href="https://siconge.github.io/Real-time-Transit-Data-Pipeline-MBTA-ETL-CDC">Preview</a>
+          
+      - layout: top-left
         sub_title: Housing Price Prediction with Linear Regression
         # link:
         # link_text: Link Text
@@ -160,19 +173,6 @@ content:
           **Skills/Tools**: Python SKlearn/Pandas/Numpy
           
           <a href="https://siconge.github.io/Housing-Price-Prediction-with-Linear-Regression">Preview</a>
-
-      - layout: top-left
-        sub_title: "Real-time Transit Data CDC from MBTA to MySQL"
-        additional_links:
-          - title: Github repo for project
-            icon: fab fa-github fa-2x
-            url: https://github.com/siconge/Real-time-Transit-Data-CDC-from-MBTA-to-MySQL
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-          
-          **Skills/Tools**: Python, MySQL, Docker, CLI
-          
-          <a href="https://siconge.github.io/Real-time-Transit-Data-CDC-from-MBTA-to-MySQL">Preview</a>
           
       - layout: top-left
         sub_title: MRTS Data ETL and Time Series Analysis
@@ -203,9 +203,11 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      - **Programming Languages**: Python (Pandas, Numpy, Matplotlib, Scikit-learn, SQLAlchemy)
+      - **Data Engineering: Data Pipelines, ETLs, CDC, Debugging, Data Analysis, Visualization, Statistics, Machine Learning
+      - **Databases**: SQL (MySQL), MongoDB
+      - **Platforms**: Apache (Airflow, Spark), AWS, Docker
+      - **Languages**: English, Madarin, Japanese
 
 # Footer
 footer_show_references: true
