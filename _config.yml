@@ -175,6 +175,23 @@ content:
           This enables time-series analysis and trend detection to provide insights into transit patterns, informing decision-making and optimizing transit operations.
           
           <a href="https://siconge.github.io/Real-time-Transit-Data-Pipeline-MBTA-ETL-CDC">Continue reading >></a>
+
+      - layout: top-middle
+        title: ETL Processing and Time Series Analysis of MRTS Dataset
+        link: github.com/siconge/MRTS-ETL-Time-Series-Analysis
+        # additional_links:
+        #   - title: Github repo for project
+        #     icon: fab fa-github fa-2x
+        #     url: https://github.com/siconge/MRTS-ETL-Time-Series-Analysis
+        description: | # this will include new lines to allow paragraphs
+          The Monthly Retail Trade Survey (MRTS) is conducted by the U.S. Census Bureau to gather data from retail businesses, 
+          providing insights into the retail sector's performance. This data covers various aspects of retail, including sales and inventories. 
+          
+          This project has two primary goals: to perform ETL (Extract, Transform, Load) processing on the MRTS dataset using Python and powerful data transformation libraries 
+          like Pandas and SQLAlchemy, and to apply key time series analysis techniques, including trend analysis, percentage changes, and rolling time windows, to analyze the data of target businesses. 
+          The process involves using MySQL for data retrieval and Python for detailed data manipulation and visualization.
+          
+          <a href="https://siconge.github.io/MRTS-ETL-Time-Series-Analysis">Continue reading >></a>
           
       - layout: top-middle
         title: Housing Price Prediction with Linear Regression
@@ -191,22 +208,8 @@ content:
           
           **Skills/Tools**: Python SKlearn/Pandas/Numpy
           
-          <a href="https://siconge.github.io/Housing-Price-Prediction-with-Linear-Regression">Preview</a>
-          
-      - layout: top-middle
-        title: MRTS Data ETL and Time Series Analysis
-        link: github.com/siconge/MRTS-Data-ETL-and-Time-Series-Analysis
-        # additional_links:
-        #   - title: Github repo for project
-        #     icon: fab fa-github fa-2x
-        #     url: https://github.com/siconge/MRTS-Data-ETL-and-Time-Series-Analysis
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-          
-          **Skills/Tools**: Python SQLAlchemy/Pandas/Numpy, MySQL
-          
-          <a href="https://siconge.github.io/MRTS-Data-ETL-and-Time-Series-Analysis">Preview</a>
-          
+          <a href="https://siconge.github.io/Housing-Price-Prediction-with-Linear-Regression">Continue reading >></a>
+        
       - layout: top-middle
         title: MIT Course Catalog NLP Word Frequency ETL and D3 Visualization
         link: github.com/siconge/MIT-Course-Catalog-NLP-Word-Frequency-ETL-and-D3-Visualization
