@@ -53,7 +53,7 @@ linkedin_username: siconge
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Aspiring Data Engineer with a robust background in Building Information Management (BIM) data engineering, specializing in <mark>data pipeline development</mark>, 
-  <mark>ETL automation</mark>, and <mark>cloud-based business solutions</mark>. Proficient in <mark>Python</mark>, <mark>SQL</mark>, <mark>AWS</mark>, <mark>Azure</mark>, 
+  <mark>ETL automation</mark>, and <mark>cloud data services</mark>. Proficient in <mark>Python</mark>, <mark>SQL</mark>, <mark>AWS</mark>, <mark>Azure</mark>, 
   <mark>Spark</mark>, and <mark>Airflow</mark>. Demonstrated ability to manage complex projects and lead cross-functional teams. 
   Licensed Architect with over a decade of experience, leveraging architectural insights in data engineering solutions. 
   Passionate about continuous learning and professional development, aiming to contribute to innovative data engineering projects.
