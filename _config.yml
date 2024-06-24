@@ -52,12 +52,10 @@ linkedin_username: siconge
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Aspiring Data Engineer with a robust background in architecture and construction, specializing in <mark>data pipeline development</mark>, <mark>ETL automation</mark>, 
-  and leveraging advanced analytical tools to drive data-driven decision-making. Proven expertise in <mark>Python</mark>, <mark>SQL</mark>, 
-  <mark>AWS</mark>, and <mark>Apache Airflow and Spark</mark>, 
-  with a demonstrated ability to manage complex projects and lead cross-functional teams.
-  
-  Licensed Architect with over a decade of experience, now transitioning to a Data Engineer role to integrate architectural insights with data engineering solutions. 
+  Aspiring Data Engineer with a robust background in Building Information Management (BIM) data engineering, specializing in <mark>data pipeline development</mark>, 
+  <mark>ETL automation</mark>, and <mark>cloud-based business solutions</mark>. Proficient in <mark>Python</mark>, <mark>SQL</mark>, <mark>AWS</mark>, <mark>Azure</mark>, 
+  <mark>Spark</mark>, and <mark>Airflow</mark>. Demonstrated ability to manage complex projects and lead cross-functional teams. 
+  Licensed Architect with over a decade of experience, leveraging architectural insights in data engineering solutions. 
   Passionate about continuous learning and professional development, aiming to contribute to innovative data engineering projects.
   
   Sicong earned his Master of Architecture from University of Southern California (USC), and Professional Certificate in Data Engineering from MIT xPRO. 
@@ -193,44 +191,13 @@ content:
           
           <a href="https://siconge.github.io/MRTS-ETL-Time-Series-Analysis">Continue reading >></a>
           
-      - layout: top-middle
-        title: Housing Price Prediction with Linear Regression
-        link: github.com/siconge/Housing-Price-Prediction-with-Linear-Regression
-        # link_text: Link Text
-        # additional_links:
-        #   - title:  Github repo for project
-        #     icon: fab fa-github fa-2x
-        #     url: https://github.com/siconge/Housing-Price-Prediction-with-Linear-Regression
-        # quote: >
-        #   Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-          
-          **Skills/Tools**: Python SKlearn/Pandas/Numpy
-          
-          <a href="https://siconge.github.io/Housing-Price-Prediction-with-Linear-Regression">Continue reading >></a>
-        
-      - layout: top-middle
-        title: MIT Course Catalog NLP Word Frequency ETL and D3 Visualization
-        link: github.com/siconge/MIT-Course-Catalog-NLP-Word-Frequency-ETL-and-D3-Visualization
-        # additional_links:
-        #   - title: Github repo for project
-        #     icon: fab fa-github fa-2x
-        #     url: https://github.com/siconge/MIT-Course-Catalog-NLP-Word-Frequency-ETL-and-D3-Visualization
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-          
-          **Skills/Tools**: Python, Apache Airflow, JavaScript D3, Docker, HTML
-          
-          <a href="https://siconge.github.io/MIT-Course-Catalog-NLP-Word-Frequency-ETL-and-D3-Visualization">Preview</a>
-          
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Programming Languages**: Python (Pandas, Numpy, Matplotlib, Scikit-learn, SQLAlchemy)
+      - **Programming Languages**: Python (PySpark, Pandas, Numpy, Matplotlib, SQLAlchemy, Scikit-learn)
       - **Data Engineering**: Data Pipelines, ETLs, CDC, Debugging, Data Analysis, Visualization, Statistics, Machine Learning
       - **Databases**: SQL (MySQL), MongoDB
-      - **Platforms**: Apache (Airflow, Spark), AWS, Docker
+      - **Platforms**: AWS, Azure, Spark, Airflow, Docker
       - **Languages**: English, Madarin, Japanese
 
 # Footer
