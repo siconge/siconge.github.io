@@ -57,9 +57,6 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>Spark</mark>, and <mark>Airflow</mark>. Demonstrated ability to manage complex projects and lead cross-functional teams. 
   Licensed Architect with over a decade of experience, leveraging architectural insights in data engineering solutions. 
   Passionate about continuous learning and professional development, aiming to contribute to innovative data engineering projects.
-  
-  Sicong earned his Master of Architecture from University of Southern California (USC), and Professional Certificate in Data Engineering from MIT xPRO. 
-  He is a licensed architect in California and holds AWS Certified Solutions Architect - Associate certification.
 
 content:
 
@@ -109,7 +106,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
       - layout: top-left
-        title: University of Southern California
+        title: University of Southern California (USC)
         sub_title: Master of Architecture
         caption: Sep 2009 - May 2011
         link: www.usc.edu
@@ -199,6 +196,12 @@ content:
       - **Databases**: SQL (MySQL), MongoDB
       - **Platforms**: AWS, Azure, Spark, Airflow, Docker
       - **Languages**: English, Madarin, Japanese
+      
+  - title: Certifications
+    layout: text
+    content: |
+      - AWS Certified Solutions Architect - Associate
+      - California Licensed Architect
 
 # Footer
 footer_show_references: true
