@@ -75,7 +75,7 @@ content:
           - Developed a comprehensive data pipeline using Apache Airflow and AWS services (S3, Glue, Athena, Redshift) 
           to manage BIM data for 6,600 curtain wall units of the 207,700 m² Tencent Global Headquarters
           - Automated ETL processes with Autodesk Platform Services API for real-time data extraction, Pandas for pre-processing, 
-          AWS SDK for Python for ingestion to Amazon S3, and AWS Glue and PySpark for further transformation and integration, 
+          AWS Python SDK for ingestion to Amazon S3, and AWS Glue and PySpark for further transformation and integration, 
           reducing manual workload by over 75% and improving efficiency by over 50%
           - Facilitated informed and timely decision-making by providing accessible data and insights using Athena and Redshift for design decisions, 
           construction modifications, cost estimation, and regulatory compliance
