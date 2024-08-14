@@ -56,8 +56,8 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>ETL automation</mark>, and <mark>cloud data services</mark>. Proficient in <mark>Python</mark>, <mark>SQL</mark>, <mark>AWS</mark>, <mark>Azure</mark>, 
   <mark>Airflow</mark>, and <mark>Spark</mark>, with foundational knowledge of <mark>big data technologies</mark> and <mark>data modeling</mark>. 
   Demonstrated ability to manage complex projects and lead cross-functional teams. 
-  Licensed Architect with over a decade of experience, leveraging architectural insights to enhance data engineering solutions. 
-  Passionate about continuous learning and professional development, aiming to contribute to innovative data engineering and big data projects.
+  Licensed Architect with over a decade of experience, now focused on integrating architectural insights to enhance data engineering solutions. 
+  Passionate about continuous learning and professional development, aiming to contribute to innovative data engineering projects.
 
 content:
 
@@ -210,7 +210,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - **Programming Languages**: Python (Pandas, Numpy, Matplotlib, PySpark, SQLAlchemy, Scikit-learn)
-      - **Data Storage & Processing**: SQL (MySQL), AWS, Azure, Spark, Airflow, Docker
+      - **Data Storage & Processing**: SQL (MySQL), AWS, Azure, Airflow, Spark, Docker, Hadoop (basic), Kafka (basic)
       - **Data Engineering & Analytics**: Data Pipeline, ETLs, CDC, Debugging, Data Analysis, Visualization, Statistics, Machine Learning
       - **Languages**: English, Madarin, Japanese
       
