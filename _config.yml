@@ -54,7 +54,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Aspiring Data Engineer with a robust background in Building Information Management (BIM) data engineering, specializing in <mark>data pipeline development</mark>, 
   <mark>ETL automation</mark>, and <mark>cloud data services</mark>. Proficient in <mark>Python</mark>, <mark>SQL</mark>, <mark>AWS</mark>, <mark>Azure</mark>, 
-  <mark>Spark</mark>, and <mark>Airflow</mark>. Demonstrated ability to manage complex projects and lead cross-functional teams. 
+  <mark>Airflow</mark>, and <mark>Spark</mark>. Demonstrated ability to manage complex projects and lead cross-functional teams. 
   Licensed Architect with over a decade of experience, leveraging architectural insights in data engineering solutions. 
   Passionate about continuous learning and professional development, aiming to contribute to innovative data engineering projects.
 
@@ -75,11 +75,12 @@ content:
           - Developed a comprehensive data pipeline using Apache Airflow and AWS services (S3, Glue, Athena, Redshift) 
           to manage BIM data for 6,600 curtain wall units of the 207,700 m² Tencent Global Headquarters
           - Automated ETL processes with Autodesk Platform Services API for real-time data extraction, Pandas for pre-processing, 
-          and Glue and Spark for further transformation, reducing manual workload by over 75% and improving project efficiency by over 50%
+          AWS SDK for Python for ingestion to Amazon S3, and AWS Glue and PySpark for further transformation and integration, 
+          reducing manual workload by over 75% and improving efficiency by over 50%
           - Facilitated informed and timely decision-making by providing accessible data and insights using Athena and Redshift for design decisions, 
           construction modifications, cost estimation, and regulatory compliance
           - Led a team of 15 architects across 3 global studios, overseeing client and consultant coordination, and technical solutions, 
-          ensuring seamless project execution and stakeholder satisfaction.
+          ensuring seamless project execution and stakeholder satisfaction
 
       - layout: top-left
         title: 5+design
@@ -207,7 +208,7 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Programming Languages**: Python (PySpark, Pandas, Numpy, Matplotlib, SQLAlchemy, Scikit-learn)
+      - **Programming Languages**: Python (Pandas, Numpy, Matplotlib, PySpark, SQLAlchemy, Scikit-learn)
       - **Data Storage & Processing**: SQL (MySQL), AWS, Azure, Spark, Airflow, Docker
       - **Data Engineering & Analytics**: Data Pipeline, ETLs, CDC, Debugging, Data Analysis, Visualization, Statistics, Machine Learning
       - **Languages**: English, Madarin, Japanese
