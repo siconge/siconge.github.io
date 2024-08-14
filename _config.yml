@@ -52,11 +52,12 @@ linkedin_username: siconge
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Aspiring Data Engineer with a robust background in Building Information Management (BIM) data engineering, specializing in <mark>data pipeline development</mark>, 
+  Aspiring Data Engineer with a robust background in Building Information Modeling (BIM) data engineering, specializing in <mark>data pipeline development</mark>, 
   <mark>ETL automation</mark>, and <mark>cloud data services</mark>. Proficient in <mark>Python</mark>, <mark>SQL</mark>, <mark>AWS</mark>, <mark>Azure</mark>, 
-  <mark>Airflow</mark>, and <mark>Spark</mark>. Demonstrated ability to manage complex projects and lead cross-functional teams. 
-  Licensed Architect with over a decade of experience, leveraging architectural insights in data engineering solutions. 
-  Passionate about continuous learning and professional development, aiming to contribute to innovative data engineering projects.
+  <mark>Airflow</mark>, and <mark>Spark</mark>, with foundational knowledge of <mark>big data technologies</mark> and <mark>data modeling</mark>. 
+  Demonstrated ability to manage complex projects and lead cross-functional teams. 
+  Licensed Architect with over a decade of experience, leveraging architectural insights to enhance data engineering solutions. 
+  Passionate about continuous learning and professional development, aiming to contribute to innovative data engineering and big data projects.
 
 content:
 
