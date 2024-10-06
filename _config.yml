@@ -111,7 +111,7 @@ content:
           - **Data Processing, Analysis and Visualization**: Proficient in Python and multiple libraries, including 
           NumPy, Pandas, Matplotlib, PySpark, SQLAlchemy, PyMongo, Scikit-learn, SciPy, DASK, NLTK, Graphviz, and Paho.
           - **Database Design and Management**: Proficient in SQL; wrote complex database queries; conducted database schema design (data modeling); 
-          familiar with common RDBMS and NoSQL databases; applied regular expressions.
+          involved common RDBMS and NoSQL databases; applied regular expressions.
           - **ETL Processes and Data Pipelines**: Performed extract, transform, and load (ETL) operations using Python; 
           created ETL pipelines and orchestrated workflows using Apache Airflow.
           - **Big Data Handling**: Processed big data using Spark and Hadoop; ran parallel operations using DASK; 
