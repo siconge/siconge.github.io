@@ -112,12 +112,12 @@ content:
           NumPy, Pandas, Matplotlib, PySpark, SQLAlchemy, PyMongo, Scikit-learn, SciPy, DASK, NLTK, Graphviz, and Paho.
           - **Database Design and Management**: Proficient in SQL; wrote complex database queries; conducted database schema design (data modeling); 
           involved common RDBMS and NoSQL databases; applied regular expressions.
+          - **Database Containerization**: Used Docker to create and manipulate images and containers; 
+          performed change data capture (CDC) in different types of databases including MongoDB, Cassandra, Redis, and Firebase.
           - **ETL Processes and Data Pipelines**: Performed extract, transform, and load (ETL) operations using Python; 
           created ETL pipelines and orchestrated workflows using Apache Airflow.
           - **Big Data Handling**: Processed big data using Spark and Hadoop; ran parallel operations using DASK; 
           handled real-time streaming data using Mosquitto, ThingsBoard, and Kafka.
-          - **Database Containerization**: Used Docker to create and manipulate images and containers; 
-          performed change data capture (CDC) in different types of databases including MongoDB, Cassandra, Redis, and Firebase.
           - **Statistics Basics**: Identified key concepts in statistics, including various types of probability distributions, Central Limit Theorem, and correlation.
           - **AI/ML Algorithms**: Built a prediction modeling using linear regression; 
           implemented foundational ML algorithms, including gradient descent for error reduction, classification with Naïve Bayes theorems, 
