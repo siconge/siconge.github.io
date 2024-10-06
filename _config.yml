@@ -123,7 +123,7 @@ content:
           implemented foundational ML algorithms, including gradient descent for error reduction, classification with Naïve Bayes theorems, 
           clustering (k-means), reinforcement learning (Q-matrix, Bellman equation), and deep neural networks.
           - **Software Engineering and Network Basics**: Grasped commonly used command line commands; 
-          identified key concepts of Java, asynchronous event-driven programming, HTTP and client–server architecture; 
+          identified key concepts of Java, asynchronous event-driven programming, and HTTP and client–server architecture; 
           created applications using Flask web server and Jinja templating language.
           
       - layout: top-left
