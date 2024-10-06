@@ -108,13 +108,22 @@ content:
         description: | # this will include new lines to allow paragraphs
           This program equipped me with the skills to advance my career in data engineering. Key learning outcomes include:
           
-          - **Database Development and Analysis**: Proficient in SQL, Python, and multiple libraries 
-          (NumPy, Pandas, PySpark, DASK, SQLAlchemy, PyMongo, Matplotlib, Scikit-learn, SciPy, Graphviz, NLTK, and Paho).
-          - **ETL Processes**: Experience in performing extract, transform, and load (ETL) operations, change data capture (CDC), and using NiFi to create ETL pipelines.
-          - **Database Design and Management**: Conceptual and formal database design, containerization, and querying databases within containers using Docker.
-          - **Big Data Handling**: Utilized Spark for handling big data, orchestrated workflows in Airflow, ran parallel operations in DASK, 
-          and analyzed live streaming data using ThingsBoard.
-          - **AI/ML Algorithms**: Implemented machine learning algorithms, including reinforcement learning and deep neural networks, and applied gradient descent for error reduction.
+          - **Data Processing, Analysis and Visualization**: Proficient in Python and multiple libraries, including 
+          NumPy, Pandas, Matplotlib, PySpark, SQLAlchemy, PyMongo, Scikit-learn, SciPy, DASK, NLTK, Graphviz, and Paho.
+          - **Database Design and Management**: Proficient in SQL; wrote complex database queries; conducted database schema design (data modeling); applied Regular Expressions.
+          - **ETL Processes and Data Pipelines**: Performed extract, transform, and load (ETL) operations using Python; 
+          created ETL pipelines and orchestrated workflows using Apache Airflow.
+          - **Big Data Handling**: Processed big data using Spark and Hadoop; ran parallel operations using DASK; 
+          handled real-time streaming data using Mosquitto, ThingsBoard, and Kafka.
+          - **Database Containerization**: Used Docker to create and manipulate images and containers; ran queries to interface with database containers; 
+          performed change data capture (CDC) in different types of databases including MongoDB, Cassandra, Redis, and Firebase.
+          - **Statistics Basics**: Identified and applied key concepts in statistics, including various types of probability distributions, Central Limit Theorem, and correlation.
+          - **AI/ML Algorithms**: Built a prediction modeling using linear regression using Scikit-learn; 
+          implemented foundational ML algorithms, including gradient descent for error reduction, classification with Naïve Bayes theorems, 
+          clustering (k-means), reinforcement learning (reward matrix, quality matrix, Bellman equation), and deep neural networks.
+          - **Software Engineering and Network Basics**: Grasped commonly used command line commands including Docker commands; 
+          identified key concepts of Java, asynchronous event-driven programming, and HTTP structure; 
+          defined client–server architecture; created applications using Flask web server and Jinja templating language.
           
       - layout: top-left
         title: University of Southern California (USC)
