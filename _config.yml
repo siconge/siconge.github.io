@@ -53,7 +53,7 @@ linkedin_username: siconge
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Aspiring Data Engineer with a robust background in Building Information Modeling (BIM) data engineering, specializing in <mark>data pipeline development</mark>, 
-  <mark>ETL automation</mark>, and <mark>cloud data services</mark>. Proficient in <mark>Python</mark>, <mark>SQL</mark>, <mark>AWS</mark>, <mark>Azure</mark>, 
+  <mark>ETL automation</mark>, and <mark>cloud data services</mark>. Proficient in <mark>Python</mark>, <mark>SQL</mark>, <mark>AWS</mark>, 
   <mark>Airflow</mark>, and <mark>Spark</mark>, with hands-on experience in <mark>big data technologies</mark>, <mark>data warehousing</mark>, and <mark>API integrations</mark>. 
   Demonstrated ability to manage complex projects and lead cross-functional teams to deliver impactful solutions. 
   Licensed Architect with over a decade of experience, now leveraging architectural insights to enhance data engineering projects. 
@@ -220,7 +220,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - **Programming Languages**: Python (Pandas, Numpy, Matplotlib, PySpark, SQLAlchemy, Scikit-learn)
-      - **Data Storage & Processing**: SQL (MySQL), AWS, Spark, Airflow, Docker, Azure, Hadoop (basic), Kafka (basic), Linux CLI
+      - **Data Storage & Processing**: SQL (MySQL), AWS, Airflow, Spark, Docker, Azure, Kafka, Linux CLI
       - **Data Engineering & Analytics**: Data Pipeline, ETL, Data Modeling, Analysis, Visualization, Debugging, Git, CDC, Statistics, Machine Learning
       - **Languages**: English, Madarin, Japanese
       
