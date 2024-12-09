@@ -220,7 +220,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - **Programming Languages**: Python (Pandas, Numpy, Matplotlib, PySpark, SQLAlchemy, Scikit-learn)
-      - **Data Storage & Processing**: SQL (MySQL), AWS, Airflow, Spark, Docker, Azure, Kafka, Linux CLI
+      - **Data Storage & Processing**: SQL (MySQL), NoSQL(MongoDB), AWS, Azure, Airflow, Spark, Docker, Linux CLI
       - **Data Engineering & Analytics**: Data Pipeline, ETL, Data Modeling, Analysis, Visualization, Debugging, Git, CDC, Statistics, Machine Learning
       - **Languages**: English, Madarin, Japanese
       
