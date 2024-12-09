@@ -54,10 +54,10 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Aspiring Data Engineer with a robust background in Building Information Modeling (BIM) data engineering, specializing in <mark>data pipeline development</mark>, 
   <mark>ETL automation</mark>, and <mark>cloud data services</mark>. Proficient in <mark>Python</mark>, <mark>SQL</mark>, <mark>AWS</mark>, <mark>Azure</mark>, 
-  <mark>Spark</mark>, and <mark>Airflow</mark>, with foundational knowledge of <mark>big data technologies</mark> and <mark>data warehousing</mark>. 
-  Demonstrated ability to manage complex projects and lead cross-functional teams. 
-  Licensed Architect with over a decade of experience, now focused on leveraging architectural insights to enhance data engineering solutions. 
-  Passionate about continuous learning and professional development, aiming to contribute to innovative and impactful data engineering projects.
+  <mark>Airflow</mark>, and <mark>Spark</mark>, with hands-on experience in <mark>big data technologies</mark>, <mark>data warehousing</mark>, and <mark>API integrations</mark>. 
+  Demonstrated ability to manage complex projects and lead cross-functional teams to deliver impactful solutions. 
+  Licensed Architect with over a decade of experience, now leveraging architectural insights to enhance data engineering projects. 
+  Passionate about continuous learning and contributing to innovative data-driven solutions.
 
 content:
 
