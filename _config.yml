@@ -162,18 +162,17 @@ content:
         # quote: >
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          This project delivers an end-to-end data pipeline solution designed to efficiently handle BIM (Building Information Modeling) data 
-          from the Revit model of Tencent Global Headquarters in Shenzhen. As the Lead Project Architect and BIM Data Engineer, 
-          I oversaw the design and construction phases, ensuring seamless integration and data management.
-          
-          This data pipeline employs a comprehensive ETL (Extract, Transform, Load) process to move BIM data from Autodesk Revit into cloud storage for processing and analytics. 
-          The pipeline leverages tools and services such as Apache Airflow, Amazon S3, AWS Glue, and Amazon Redshift.
-          
-          Specifically designed to serve the design team, technical consultants, and Tencent clients, this pipeline supports informed decision-making, 
-          construction detail modifications, cost estimation, and compliance with local regulations such as energy consumption, window-to-wall ratio, and fire protection standards. 
-          The focus on the unitized curtain wall system demonstrates how data-driven processes assist in fine-tuning design and construction details 
-          to meet various code requirements while maintaining the overall design intent. This approach ensures precise tracking and management of architectural elements, 
-          enhancing overall project outcomes.
+          This project delivers an end-to-end data pipeline solution designed to process BIM (Building Information Modeling) data 
+          from the Revit model of Tencent Global Headquarters in Shenzhen. Developed during the design and construction phases, 
+          the pipeline efficiently handles unitized curtain wall metadata to support data-driven decision-making.
+
+          Integrating upstream metadata extraction from Autodesk BIM 360 and downstream cloud-based transformations and analytics using AWS services, 
+          the pipeline leverages Apache Airflow, AWS CloudFormation, Amazon S3, AWS Glue, and Amazon Redshift. 
+          It enables automated, scalable workflows for data extraction, transformation, and storage.
+
+          Tailored for design teams, technical consultants, and Tencent clients, the solution supports precise construction detail modifications, 
+          cost estimation, and regulatory compliance with standards for energy consumption and fire protection. 
+          Its modular and iterative BIM data processing approach adapts to evolving design requirements while preserving architectural integrity.
           
           <a href="https://siconge.github.io/Tencent-HQ-BIM-Data-Pipeline-with-AWS">Continue reading >></a>
 
