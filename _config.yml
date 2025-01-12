@@ -150,7 +150,7 @@ content:
       - layout: top-middle
         # border: weak  # Value of `weak` will display a weak border below this item.
                       # Any other value (or no value) means no border will be displayed
-        title: Tencent Headquarters BIM Data Pipeline Using Autodesk Platform Services, Apache Airflow, and AWS Services
+        title: Tencent Headquarters BIM Data Pipeline Using Apache Airflow, AWS Services, and Autodesk Platform Services
         link: github.com/siconge/Tencent-HQ-BIM-Data-Pipeline-with-AWS
         # link_text: Link Text
         # additional_links:
