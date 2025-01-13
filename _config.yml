@@ -219,9 +219,9 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Programming Languages**: Python (Pandas, Numpy, Matplotlib, PySpark, SQLAlchemy, Scikit-learn), Linux CLI
-      - **Data Storage & Processing**: SQL (MySQL), AWS(Glue, S3, Redshift, CloudFormation), NoSQL(MongoDB), Airflow, Spark, Docker, YAML Templates, Azure 
-      - **Data Engineering & Analytics**: Data Pipeline, ETL, Data Modeling, Analysis, Visualization, IaC, Debugging, Git, CDC, Statistics, Machine Learning
+      - **Programming Languages**: Python (Pandas, Numpy, Matplotlib, PySpark, SQLAlchemy, Scikit-learn)
+      - **Data Storage & Processing**: SQL (MySQL), AWS(Glue, S3, Redshift, CloudFormation), NoSQL(MongoDB), Airflow, Spark, Docker, Azure, YAML Templates, Linux CLI
+      - **Data Engineering & Analytics**: Data Pipelines, ETL, Data Modeling, Analysis, Visualization, Debugging & Testing, IaC, Git, CDC, Statistics, Machine Learning
       - **Languages**: English, Madarin, Japanese
       
   - title: Certifications
