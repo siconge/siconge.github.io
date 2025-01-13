@@ -221,7 +221,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       - **Programming Languages**: Python (Pandas, Numpy, Matplotlib, PySpark, SQLAlchemy, Scikit-learn)
       - **Data Storage & Processing**: SQL (MySQL), AWS(Glue, S3, Redshift, CloudFormation), NoSQL(MongoDB), Airflow, Spark, Docker, Azure, YAML Templates, Linux CLI
-      - **Data Engineering & Analytics**: Data Pipelines, ETL, Data Modeling, Analysis, Visualization, Debugging & Testing, IaC, Git, CDC, Statistics, Machine Learning
+      - **Data Engineering & Analytics**: Data Pipelines, ETL, Data Modeling, Analysis, Visualization, Debugging & Testing, CDC, IaC, Git, Machine Learning, Statistics
       - **Languages**: English, Madarin, Japanese
       
   - title: Certifications
