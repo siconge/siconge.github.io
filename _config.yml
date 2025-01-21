@@ -207,7 +207,7 @@ content:
         #     icon: fab fa-github fa-2x
         #     url: https://github.com/siconge/MRTS-ETL-Time-Series-Analysis
         description: | # this will include new lines to allow paragraphs
-          The Monthly Retail Trade Survey (MRTS) is conducted by the U.S. Census Bureau to gather data from retail businesses,\n 
+          The Monthly Retail Trade Survey (MRTS) is conducted by the U.S. Census Bureau to gather data from retail businesses, 
           providing insights into the retail sector's performance. This data covers various aspects of retail, including sales and inventories. 
           
           This project has two primary goals: to perform ETL (Extract, Transform, Load) processing on the MRTS dataset using Python and powerful data transformation libraries 
@@ -218,7 +218,7 @@ content:
           
   - title: Skills
     layout: text
-    content: > # this will include new lines to allow paragraphs
+    content: | # this will include new lines to allow paragraphs
       - **Programming Languages**: Python (Pandas, Numpy, Matplotlib, PySpark, SQLAlchemy, Scikit-learn)
       - **Data Storage & Processing**: SQL (MySQL), AWS(Glue, S3, Redshift, CloudFormation), NoSQL(MongoDB), Airflow, Spark, Docker, Azure, YAML Templates, Linux CLI
       - **Data Engineering & Analytics**: Data Pipelines, ETL, Data Modeling, Analysis, Visualization, Debugging & Testing, CDC, IaC, Git, Machine Learning, Statistics
