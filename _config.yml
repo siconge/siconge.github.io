@@ -179,7 +179,7 @@ content:
 
       
       - layout: top-middle
-        title: "Real-time Transit Data Pipeline: ETL and CDC from MBTA to MySQL and MongoDB"
+        title: "Real-time Transit Data Pipeline: ETL from MBTA to MySQL and CDC with MongoDB"
         link: github.com/siconge/Real-time-Transit-Data-Pipeline-MBTA-ETL-CDC
         # additional_links:
         #   - title: Github repo for project
