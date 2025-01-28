@@ -52,12 +52,12 @@ linkedin_username: siconge
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Aspiring Data Engineer with a robust background in end-to-end data engineering for Building Information Modeling (BIM), specializing in <mark>data pipeline development</mark>, 
-  <mark>ETL automation</mark>, and <mark>cloud data services</mark>. Proficient in <mark>Python</mark>, <mark>SQL</mark>, <mark>AWS</mark>, 
-  <mark>Airflow</mark>, and <mark>Spark</mark>, with hands-on experience in <mark>big data technologies</mark>, <mark>data warehousing</mark>, and <mark>API integrations</mark>. 
+  Data Engineer with a robust background in <mark>end-to-end data pipeline development</mark>, <mark>ETL automation</mark>, and <mark>cloud-based data solutions</mark>, 
+  transitioning from a technical role in Building Information Modeling (BIM) to enterprise data engineering. 
+  Proficient in <mark>Python</mark>, <mark>SQL</mark>, <mark>AWS</mark>, <mark>Airflow</mark>, and <mark>Spark</mark>, 
+  with hands-on experience in <mark>big data technologies</mark>, <mark>data warehousing</mark>, and <mark>API integrations</mark>. 
   Demonstrated ability to manage complex projects and lead cross-functional teams to deliver impactful solutions. 
-  Licensed Architect with over a decade of experience, now leveraging architectural insights to enhance data engineering projects. 
-  Passionate about continuous learning and contributing to innovative data-driven solutions.
+  Former AEC (Architecture, Engineering & Construction) professional with a decade of experience, now applying data-driven methodologies to engineering scalable data solutions.
 
 content:
 
@@ -73,15 +73,15 @@ content:
           Global architecture and design firm integrating data-driven methodologies for enhanced decision-making
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          - Developed an end-to-end data pipeline using Apache Airflow and AWS services (S3, Glue, Athena, Redshift) 
-          to manage over 100,000 evolving BIM data points for 6,600 curtain wall units of the 207,700 m² Tencent Global Headquarters
-          - Automated ETL processes with Autodesk Platform Services API for real-time data extraction, Pandas for pre-processing, 
-          AWS Python SDK for ingestion to Amazon S3, and AWS Glue and PySpark for further transformation and integration, 
-          reducing manual workload by over 75% and improving efficiency by over 50%
-          - Facilitated informed and timely decision-making by providing accessible data and insights using Athena and Redshift for design decisions, 
-          construction modifications, cost estimation, and regulatory compliance
-          - Led a team of 15 architects across 3 global studios, overseeing client and consultant coordination, and technical solutions, 
-          ensuring seamless project execution and stakeholder satisfaction
+          - Designed and implemented an end-to-end data pipeline orchestrated by Apache Airflow to 
+          manage over 100,000 evolving Building Information Modeling (BIM) data points for 6,600 curtain wall units of Tencent’s 207,700 m² Global Headquarters, 
+          achieving a 75% reduction in manual effort and a 50% efficiency gain
+          - Automated ETL workflows integrating Autodesk Platform Services APIs for real-time metadata extraction, Pandas for data pre-processing, 
+          and AWS SDK for Python to load raw data into Amazon S3 and trigger AWS Glue jobs
+          - Engineered advanced transformations in AWS Glue using PySpark scripts, including timestamp-based partitioning and schema cataloging, 
+          enabling seamless integration with Amazon Redshift Spectrum for downstream analytics
+          - Delivered actionable insights by leveraging Redshift Spectrum for querying and visualization, 
+          supporting construction detail modifications, cost optimization, and compliance with energy and fire safety standards
 
       - layout: top-left
         title: 5+design
@@ -92,8 +92,8 @@ content:
           Architecture firm specializing in retail, mixed-use, residential, and large-scale urban planning
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          - Leveraged BIM software to streamline design modeling and documentation for 10+ global projects, increasing project planning and delivery efficiency by 33%
-          - Conducted data analysis on data-driven facade modules to support parametric design feasibility studies
+          - Led architectural design and BIM documentation for 10+ large-scale urban projects, collaborating with clients and consultants. 
+          Explored Python automation to streamline workflows, sparking a transition into data engineering
           
   - title: Education
     layout: list
