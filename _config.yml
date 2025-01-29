@@ -52,7 +52,7 @@ linkedin_username: siconge
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Data Engineer with a robust background in <mark>end-to-end data pipeline development</mark>, <mark>ETL automation</mark>, and <mark>cloud-based data solutions</mark>, 
+  Data Engineer with a robust background in end-to-end <mark>data pipeline</mark> development, <mark>ETL automation</mark>, and <mark>cloud-based data solutions</mark>, 
   transitioning from a technical role in Building Information Modeling (BIM) to enterprise data engineering. 
   Proficient in <mark>Python</mark>, <mark>SQL</mark>, <mark>AWS</mark>, <mark>Airflow</mark>, and <mark>Spark</mark>, 
   with hands-on experience in <mark>big data technologies</mark>, <mark>data warehousing</mark>, and <mark>API integrations</mark>. 
